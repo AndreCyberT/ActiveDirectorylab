@@ -22,4 +22,6 @@ Launch the utility: <br/>
 Creating users with Powershell <br/>
 <img width="775" alt="creating users for power shell" src="https://github.com/AndreCyberT/ActiveDirectorylab/assets/143320920/801047e0-1ae3-426a-9f4c-e6f65c1f14bf">
 
+<p align="center">
 Running Users <br/>
+<img width="774" alt="Running users" src="https://github.com/AndreCyberT/ActiveDirectorylab/assets/143320920/a1cc5472-fabe-4a4a-89c1-852f66cb2963">
